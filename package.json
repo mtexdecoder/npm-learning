@@ -1,0 +1,23 @@
+{
+  "name": "@mtexdecoder/npmwork",
+  "version": "1.0.0",
+  "description": "This is a test npm package ",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtexdecoder/npm-learning.git"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/mtexdecoder/npm-learning/issues"
+  },
+  "homepage": "https://github.com/mtexdecoder/npm-learning#readme",
+  "devDependencies": {}
+}
